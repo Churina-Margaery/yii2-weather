@@ -12,4 +12,6 @@ https://github.com/chartist-js/chartist
 
 Вид, модель и контроллер находятся в модуле weather.
 
+Данные получены из API cityair.ru, ссылка на документацию: https://cityair.ru/ru/documentation
+
 Пример работы сайта: https://drive.google.com/drive/folders/1CIDpmhUhruh3Qn7ST3-RVWc7eW9Jo4rO?usp=sharing
